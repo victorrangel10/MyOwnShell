@@ -2,7 +2,7 @@ MSH
 ===
 Msh is a simple Unix Shell implementation written in C.
 
-It abstracts the idea of how a shell works in 4 steps, which are:read, parse, fork, exec, and wait.
+It abstracts the idea of how a shell works in 4 steps, which are: read, parse, fork, exec, and wait.
 Since its built under a learning purpose, its scope is limited and there are some restrictions to usability:
 
 * Commands must be on a single line.
